@@ -1,0 +1,11 @@
+
+[package]
+name = "mdnav"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+crossterm = "0.28"
+ratatui = "0.28"
+thiserror = "1"
+tui-markdown = "0.2.10"
